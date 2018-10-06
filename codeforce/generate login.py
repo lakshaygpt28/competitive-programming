@@ -1,3 +1,4 @@
+# div 2 
 string = input().split()
 print (string[0][0], end = '')
 for x in range(1,len(string[0])):
