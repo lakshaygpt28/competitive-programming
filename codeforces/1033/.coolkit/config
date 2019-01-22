@@ -1,0 +1,10 @@
+{
+    "coolkit": {
+        "c_name": "1033",
+        "c_type": "contest",
+        "c_site": "codeforces",
+        "p_name": "A",
+        "inp": "a.cpp",
+        "init_date": ""
+    }
+}
